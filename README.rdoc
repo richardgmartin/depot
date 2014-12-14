@@ -1,28 +1,5 @@
-== README
+This Rails app is based on the 'depot' app in the book Agile Web Development with Rails 4 by Sam Ruby, Dave Thomas, and David Heinmeier Hansson.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I have implemented the majority of the features and functions provided in the Agile cookbook. I skipped a few, namely the G2: Atom Feeds, Task H: Sending Mail, Task J: Internationalization, and Task K: Deployment and Production.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+I customized some of the CSS to fit more my style. I also decided to deploy using Heroku and leveraged Capistrano.
